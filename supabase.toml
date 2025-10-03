@@ -1,0 +1,4 @@
+project_id = "kbihkrmngtgsokrauugt"
+
+[functions."guardar-lead"]
+runtime = "deno"
